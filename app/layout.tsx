@@ -98,6 +98,7 @@ export default function RootLayout({
   return (
     <html lang="ru-RU">
       <head>
+        <meta name="yandex-verification" content="44c40e15e60773ae" />
         <meta charSet="utf-8" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
